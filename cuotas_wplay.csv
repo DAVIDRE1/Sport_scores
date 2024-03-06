@@ -1,0 +1,264 @@
+datetime,local,cuota_local,cuota_empate,cuota_visitante,visitante,fecha,hora
+2023-10-14 15:54:19.485833,Atlético Nacional,2.625,3.35,2.75,Independiente Medellin,14 Oct,16:10
+2023-10-14 15:54:19.556290,Millonarios,1.727,3.75,5.25,CD Junior,14 Oct,18:20
+2023-10-14 15:54:19.616133,Rionegro Aguilas,1.727,3.75,5.25,Alianza Petrolera,15 Oct,14:00
+2023-10-14 15:54:19.681392,Deportivo Cali,2.75,3.30,2.70,América de Cali,15 Oct,16:10
+2023-10-14 15:54:19.739554,Tolima,2.00,3.65,3.80,Independiente Santa Fe,15 Oct,18:20
+2023-10-14 15:54:19.796351,Atletico Huila,1.85,3.60,4.333,Envigado FC,16 Oct,16:05
+2023-10-14 15:54:19.851382,Atletico Bucaramanga,2.00,3.50,3.95,Boyaca Chico FC,16 Oct,18:15
+2023-10-14 15:54:19.906262,Millonarios,1.42,4.20,8.00,Union Magdalena,18 Oct,18:00
+2023-10-14 15:58:56.665428,Atlético Nacional,2.625,3.35,2.75,Independiente Medellin,14 Oct,16:10
+2023-10-14 15:58:56.726977,Millonarios,1.727,3.75,5.25,CD Junior,14 Oct,18:20
+2023-10-14 15:58:56.784966,Rionegro Aguilas,1.727,3.75,5.25,Alianza Petrolera,15 Oct,14:00
+2023-10-14 15:58:56.843613,Deportivo Cali,2.75,3.30,2.70,América de Cali,15 Oct,16:10
+2023-10-14 15:58:56.899626,Tolima,2.00,3.65,3.80,Independiente Santa Fe,15 Oct,18:20
+2023-10-14 15:58:56.955244,Atletico Huila,1.85,3.60,4.333,Envigado FC,16 Oct,16:05
+2023-10-14 15:58:57.017945,Atletico Bucaramanga,2.00,3.50,3.95,Boyaca Chico FC,16 Oct,18:15
+2023-10-14 15:58:57.073735,Millonarios,1.42,4.20,8.00,Union Magdalena,18 Oct,18:00
+2023-10-18 23:51:55.465418,Envigado FC,3.20,3.25,2.40,Deportivo Cali,20 Oct,14:00
+2023-10-18 23:51:55.562934,Jaguares De Córdoba,2.25,3.10,3.60,Deportivo Pasto,20 Oct,16:10
+2023-10-18 23:51:55.632326,La Equidad,2.60,3.25,2.85,Rionegro Aguilas,20 Oct,18:20
+2023-10-18 23:51:55.710626,Independiente Santa Fe,2.50,3.25,3.00,Millonarios,21 Oct,14:00
+2023-10-18 23:51:55.773011,Union Magdalena,2.25,3.40,3.30,Atletico Bucaramanga,21 Oct,16:10
+2023-10-18 23:51:55.841277,CD Junior,1.65,3.90,5.50,Once Caldas,21 Oct,18:20
+2023-10-18 23:51:55.899766,Boyaca Chico FC,2.85,3.25,2.60,Atlético Nacional,22 Oct,14:00
+2023-10-18 23:51:55.966088,Independiente Medellin,1.70,3.90,5.25,Deportivo Pereira,22 Oct,16:10
+2023-10-18 23:51:56.021486,Alianza Petrolera,3.45,3.35,2.25,Tolima,22 Oct,18:20
+2023-10-18 23:51:56.097921,América de Cali,1.42,5.00,7.50,Atletico Huila,23 Oct,18:00
+2023-11-10 22:13:45.845498,Atlético Nacional,2.05,3.25,3.80,Millonarios,12 Nov,14:00
+2023-11-10 22:13:46.049215,América de Cali,1.909,3.50,3.95,Independiente Medellin,12 Nov,16:30
+2023-11-10 22:13:46.122460,Deportivo Cali,2.35,3.10,3.20,Rionegro Aguilas,13 Nov,14:00
+2023-11-10 22:13:46.209108,Tolima,2.05,3.20,3.90,CD Junior,13 Nov,16:30
+2023-11-10 22:36:39.748718,Atlético Nacional,2.05,3.25,3.80,Millonarios,12 Nov,14:00
+2023-11-10 22:36:39.865657,América de Cali,1.909,3.50,3.95,Independiente Medellin,12 Nov,16:30
+2023-11-10 22:36:40.036308,Deportivo Cali,2.35,3.10,3.20,Rionegro Aguilas,13 Nov,14:00
+2023-11-10 22:36:40.110608,Tolima,2.05,3.20,3.90,CD Junior,13 Nov,16:30
+2023-11-10 22:51:01.072862,Atlético Nacional,2.05,3.25,3.80,Millonarios,12 Nov,14:00
+2023-11-10 22:51:01.194916,América de Cali,1.909,3.50,3.95,Independiente Medellin,12 Nov,16:30
+2023-11-10 22:51:01.369658,Deportivo Cali,2.35,3.10,3.20,Rionegro Aguilas,13 Nov,14:00
+2023-11-10 22:51:01.443526,Tolima,2.05,3.20,3.90,CD Junior,13 Nov,16:30
+2023-11-11 00:20:22.343942,Atlético Nacional,2.05,3.25,3.80,Millonarios,12 Nov,14:00
+2023-11-11 00:20:22.458853,América de Cali,1.909,3.50,3.95,Independiente Medellin,12 Nov,16:30
+2023-11-11 00:20:22.623417,Deportivo Cali,2.35,3.10,3.20,Rionegro Aguilas,13 Nov,14:00
+2023-11-11 00:20:22.704957,Tolima,2.05,3.20,3.90,CD Junior,13 Nov,16:30
+2023-11-11 00:30:34.639214,Atlético Nacional,2.05,3.25,3.80,Millonarios,12 Nov,14:00
+2023-11-11 00:30:35.091803,América de Cali,1.909,3.50,3.95,Independiente Medellin,12 Nov,16:30
+2023-11-11 00:30:35.254282,Deportivo Cali,2.35,3.10,3.20,Rionegro Aguilas,13 Nov,14:00
+2023-11-11 00:30:35.410218,Tolima,2.05,3.20,3.90,CD Junior,13 Nov,16:30
+2023-11-11 00:35:15.115998,Atlético Nacional,2.05,3.25,3.80,Millonarios,12 Nov,14:00
+2023-11-11 00:35:15.453575,América de Cali,1.909,3.50,3.95,Independiente Medellin,12 Nov,16:30
+2023-11-11 00:35:15.610316,Deportivo Cali,2.35,3.10,3.20,Rionegro Aguilas,13 Nov,14:00
+2023-11-11 00:35:15.765119,Tolima,2.05,3.20,3.90,CD Junior,13 Nov,16:30
+2023-11-11 14:43:48.090138,Atlético Nacional,2.10,3.40,3.40,Millonarios,12 Nov,14:00
+2023-11-11 14:43:48.156120,América de Cali,2.00,3.55,3.65,Independiente Medellin,12 Nov,16:30
+2023-11-11 14:43:48.215429,Deportivo Cali,2.35,3.30,3.00,Rionegro Aguilas,13 Nov,14:00
+2023-11-11 14:43:48.286994,Tolima,2.05,3.35,3.60,CD Junior,13 Nov,16:30
+2023-11-11 15:22:14.933071,Atlético Nacional,2.10,3.40,3.40,Millonarios,12 Nov,14:00
+2023-11-11 15:22:15.047785,América de Cali,2.00,3.55,3.65,Independiente Medellin,12 Nov,16:30
+2023-11-11 15:22:15.217905,Deportivo Cali,2.35,3.30,3.00,Rionegro Aguilas,13 Nov,14:00
+2023-11-11 15:22:15.301588,Tolima,2.05,3.35,3.60,CD Junior,13 Nov,16:30
+2023-11-12 00:15:49.569000,Atlético Nacional,2.10,3.40,3.40,Millonarios,12 Nov,14:00
+2023-11-12 00:15:49.721670,América de Cali,2.00,3.55,3.65,Independiente Medellin,12 Nov,16:30
+2023-11-12 00:15:49.793354,Deportivo Cali,2.30,3.35,3.10,Rionegro Aguilas,13 Nov,14:00
+2023-11-12 00:15:49.895048,Tolima,2.05,3.35,3.70,CD Junior,13 Nov,16:30
+2023-11-12 11:17:12.674645,Atlético Nacional,2.35,3.40,3.10,Millonarios,12 Nov,14:00
+2023-11-12 11:17:12.867078,América de Cali,2.05,3.60,3.65,Independiente Medellin,12 Nov,16:30
+2023-11-12 11:17:12.937720,Deportivo Cali,2.40,3.35,3.00,Rionegro Aguilas,13 Nov,14:00
+2023-11-12 11:17:13.020668,Tolima,2.05,3.40,3.80,CD Junior,13 Nov,16:30
+2023-11-12 13:44:52.640714,Atlético Nacional,2.40,3.30,3.10,Millonarios,12 Nov,14:00
+2023-11-12 13:44:52.721562,América de Cali,2.05,3.60,3.65,Independiente Medellin,12 Nov,16:30
+2023-11-12 13:44:52.824677,Deportivo Cali,2.375,3.40,3.10,Rionegro Aguilas,13 Nov,14:00
+2023-11-12 13:44:52.912626,Tolima,2.05,3.40,3.80,CD Junior,13 Nov,16:30
+2023-11-12 14:25:07.012531,América de Cali,2.05,3.60,3.65,Independiente Medellin,12 Nov,16:30
+2023-11-12 14:25:07.125378,Deportivo Cali,2.375,3.40,3.10,Rionegro Aguilas,13 Nov,14:00
+2023-11-12 14:25:07.303808,Tolima,2.05,3.40,3.80,CD Junior,13 Nov,16:30
+2023-11-12 20:28:52.863833,Deportivo Cali,2.375,3.40,3.10,Rionegro Aguilas,13 Nov,14:00
+2023-11-12 20:28:52.925833,Tolima,2.15,3.40,3.65,CD Junior,13 Nov,16:30
+2023-11-12 20:28:52.983117,Millonarios,2.00,3.20,4.00,América de Cali,19 Nov,13:00
+2023-11-12 20:28:53.040752,Independiente Medellin,1.85,3.50,4.20,Atlético Nacional,19 Nov,15:30
+2023-11-13 08:50:51.505810,Deportivo Cali,2.55,3.25,2.95,Rionegro Aguilas,13 Nov,14:00
+2023-11-13 08:50:51.567299,Tolima,2.30,3.20,3.35,CD Junior,13 Nov,16:30
+2023-11-13 08:50:51.623478,Rionegro Aguilas,2.20,3.20,3.60,Tolima,18 Nov,14:00
+2023-11-13 08:50:51.677537,CD Junior,1.70,3.75,5.50,Deportivo Cali,18 Nov,16:30
+2023-11-13 08:50:51.732573,Millonarios,2.10,3.20,4.20,América de Cali,19 Nov,13:00
+2023-11-13 08:50:51.788046,Independiente Medellin,1.90,3.60,4.333,Atlético Nacional,19 Nov,15:30
+2023-11-13 11:19:57.013673,Deportivo Cali,2.60,3.25,2.85,Rionegro Aguilas,13 Nov,14:00
+2023-11-13 11:19:57.071538,Tolima,2.30,3.20,3.45,CD Junior,13 Nov,16:30
+2023-11-13 11:19:57.126264,Rionegro Aguilas,2.20,3.20,3.65,Tolima,18 Nov,14:00
+2023-11-13 11:19:57.180600,CD Junior,1.727,3.80,5.25,Deportivo Cali,18 Nov,16:30
+2023-11-13 11:19:57.237161,Millonarios,2.10,3.20,4.20,América de Cali,19 Nov,13:00
+2023-11-13 11:19:57.295006,Independiente Medellin,1.90,3.60,4.333,Atlético Nacional,19 Nov,15:30
+2023-11-13 23:00:23.140614,Rionegro Aguilas,2.05,3.40,3.85,Tolima,18 Nov,14:00
+2023-11-13 23:00:23.340925,CD Junior,1.727,3.80,5.25,Deportivo Cali,18 Nov,16:30
+2023-11-13 23:00:23.406161,Millonarios,2.10,3.20,4.20,América de Cali,19 Nov,13:00
+2023-11-13 23:00:23.481991,Independiente Medellin,2.20,3.40,3.40,Atlético Nacional,19 Nov,15:30
+2023-11-14 08:51:32.108942,Rionegro Aguilas,2.05,3.40,3.85,Tolima,18 Nov,14:00
+2023-11-14 08:51:32.169497,CD Junior,1.727,3.70,5.25,Deportivo Cali,18 Nov,16:30
+2023-11-14 08:51:32.223833,Millonarios,2.10,3.20,4.20,América de Cali,19 Nov,13:00
+2023-11-14 08:51:32.288609,Independiente Medellin,2.25,3.40,3.35,Atlético Nacional,19 Nov,15:30
+2023-11-14 14:11:52.402932,Rionegro Aguilas,2.05,3.40,3.85,Tolima,18 Nov,14:00
+2023-11-14 14:11:52.461538,CD Junior,1.727,3.70,5.25,Deportivo Cali,18 Nov,16:30
+2023-11-14 14:11:52.707737,Millonarios,2.10,3.20,4.20,América de Cali,19 Nov,13:00
+2023-11-14 14:11:52.762938,Independiente Medellin,2.25,3.40,3.35,Atlético Nacional,19 Nov,15:30
+2023-11-15 08:54:23.261944,Rionegro Aguilas,1.95,3.50,4.00,Tolima,18 Nov,14:00
+2023-11-15 08:54:23.334424,CD Junior,1.727,3.55,5.00,Deportivo Cali,18 Nov,16:30
+2023-11-15 08:54:23.437369,Millonarios,2.10,3.25,3.65,América de Cali,19 Nov,13:00
+2023-11-15 08:54:23.491863,Independiente Medellin,2.30,3.45,3.10,Atlético Nacional,19 Nov,15:30
+2023-11-15 15:38:44.442688,Rionegro Aguilas,2.00,3.55,3.85,Tolima,18 Nov,14:00
+2023-11-15 15:38:44.519913,CD Junior,1.727,3.55,5.00,Deportivo Cali,18 Nov,16:30
+2023-11-15 15:38:44.612999,Millonarios,2.10,3.25,3.55,América de Cali,19 Nov,13:00
+2023-11-15 15:38:44.671459,Independiente Medellin,2.35,3.35,3.20,Atlético Nacional,19 Nov,15:30
+2023-11-16 10:04:28.447521,Rionegro Aguilas,1.95,3.55,4.00,Tolima,18 Nov,14:00
+2023-11-16 10:04:28.572690,CD Junior,1.727,3.55,5.00,Deportivo Cali,18 Nov,16:30
+2023-11-16 10:04:28.802256,Millonarios,2.20,3.30,3.55,América de Cali,19 Nov,13:00
+2023-11-16 10:04:28.856689,Independiente Medellin,2.35,3.35,3.20,Atlético Nacional,19 Nov,15:30
+2023-11-16 13:08:09.884094,Rionegro Aguilas,1.95,3.55,4.00,Tolima,18 Nov,14:00
+2023-11-16 13:08:10.201890,CD Junior,1.75,3.65,5.25,Deportivo Cali,18 Nov,16:30
+2023-11-16 13:08:10.265762,Millonarios,2.10,3.35,3.70,América de Cali,19 Nov,13:00
+2023-11-16 13:08:10.334098,Independiente Medellin,2.15,3.45,3.45,Atlético Nacional,19 Nov,15:30
+2023-11-16 20:48:48.970442,Rionegro Aguilas,1.95,3.55,4.00,Tolima,18 Nov,14:00
+2023-11-16 20:48:49.036041,CD Junior,1.75,3.65,5.25,Deportivo Cali,18 Nov,16:30
+2023-11-16 20:48:49.096442,Millonarios,2.10,3.35,3.70,América de Cali,19 Nov,13:00
+2023-11-16 20:48:49.167896,Independiente Medellin,2.15,3.45,3.45,Atlético Nacional,19 Nov,15:30
+2023-11-17 18:54:36.705781,Rionegro Aguilas,1.95,3.55,4.00,Tolima,18 Nov,14:00
+2023-11-17 18:54:36.768604,CD Junior,1.727,3.70,5.25,Deportivo Cali,18 Nov,16:30
+2023-11-17 18:54:36.826554,Millonarios,2.10,3.35,3.70,América de Cali,19 Nov,13:00
+2023-11-17 18:54:36.886104,Independiente Medellin,2.15,3.45,3.45,Atlético Nacional,19 Nov,15:30
+2023-11-18 06:35:48.918914,Rionegro Aguilas,2.05,3.35,3.90,Tolima,18 Nov,14:00
+2023-11-18 06:35:48.987962,CD Junior,1.727,3.70,5.25,Deportivo Cali,18 Nov,16:30
+2023-11-18 06:35:49.053186,Millonarios,2.10,3.35,3.70,América de Cali,19 Nov,13:00
+2023-11-18 06:35:49.117331,Independiente Medellin,2.15,3.45,3.45,Atlético Nacional,19 Nov,15:30
+2023-11-18 22:40:40.730753,Millonarios,2.15,3.30,3.65,América de Cali,19 Nov,13:00
+2023-11-18 22:40:40.792701,Independiente Medellin,2.20,3.40,3.40,Atlético Nacional,19 Nov,15:30
+2023-11-18 22:40:40.865337,Tolima,1.769,3.50,4.75,Deportivo Cali,25 Nov,14:00
+2023-11-18 22:40:40.944214,CD Junior,1.909,3.35,4.20,Rionegro Aguilas,25 Nov,16:30
+2023-11-19 19:58:37.953794,Tolima,1.769,3.50,4.75,Deportivo Cali,25 Nov,14:00
+2023-11-19 19:58:38.016844,CD Junior,2.00,3.20,4.20,Rionegro Aguilas,25 Nov,16:30
+2023-11-19 19:58:38.077807,Millonarios,2.00,3.30,3.90,Independiente Medellin,26 Nov,13:00
+2023-11-19 19:58:38.139224,Atlético Nacional,2.25,3.25,3.25,América de Cali,26 Nov,15:30
+2023-11-20 10:17:42.092064,Tolima,1.75,3.65,4.75,Deportivo Cali,25 Nov,14:00
+2023-11-20 10:17:42.158768,CD Junior,1.95,3.35,4.00,Rionegro Aguilas,25 Nov,16:30
+2023-11-20 10:17:42.214771,Millonarios,2.00,3.40,3.85,Independiente Medellin,26 Nov,13:00
+2023-11-20 10:17:42.272550,Atlético Nacional,2.15,3.40,3.35,América de Cali,26 Nov,15:30
+2023-11-20 11:08:23.845859,Tolima,1.75,3.65,4.75,Deportivo Cali,25 Nov,14:00
+2023-11-20 11:08:23.942704,CD Junior,1.95,3.35,4.00,Rionegro Aguilas,25 Nov,16:30
+2023-11-20 11:08:24.010077,Millonarios,2.00,3.40,3.85,Independiente Medellin,26 Nov,13:00
+2023-11-20 11:08:24.080049,Atlético Nacional,2.15,3.40,3.35,América de Cali,26 Nov,15:30
+2023-11-20 14:16:06.426273,Tolima,1.75,3.65,4.75,Deportivo Cali,25 Nov,14:00
+2023-11-20 14:16:06.482191,CD Junior,1.95,3.35,4.00,Rionegro Aguilas,25 Nov,16:30
+2023-11-20 14:16:06.559697,Millonarios,2.00,3.40,3.85,Independiente Medellin,26 Nov,13:00
+2023-11-20 14:16:06.763624,Atlético Nacional,2.15,3.40,3.35,América de Cali,26 Nov,15:30
+2023-11-21 00:47:33.404167,Tolima,1.727,3.60,5.00,Deportivo Cali,25 Nov,14:00
+2023-11-21 00:47:33.626968,CD Junior,1.95,3.25,4.20,Rionegro Aguilas,25 Nov,16:30
+2023-11-21 00:47:33.692469,Millonarios,2.00,3.30,4.00,Independiente Medellin,26 Nov,13:00
+2023-11-21 00:47:33.749304,Atlético Nacional,2.25,3.25,3.25,América de Cali,26 Nov,15:30
+2023-11-21 10:14:41.442220,Tolima,1.727,3.65,4.75,Deportivo Cali,25 Nov,14:00
+2023-11-21 10:14:41.514996,CD Junior,1.95,3.35,4.00,Rionegro Aguilas,25 Nov,16:30
+2023-11-21 10:14:41.570148,Millonarios,2.00,3.40,3.75,Independiente Medellin,26 Nov,13:00
+2023-11-21 10:14:41.639603,Atlético Nacional,2.15,3.35,3.30,América de Cali,26 Nov,15:30
+2023-11-21 13:03:17.979881,Tolima,1.727,3.65,4.75,Deportivo Cali,25 Nov,14:00
+2023-11-21 13:03:18.049426,CD Junior,1.95,3.35,4.00,Rionegro Aguilas,25 Nov,16:30
+2023-11-21 13:03:18.106784,Millonarios,2.00,3.40,3.75,Independiente Medellin,26 Nov,13:00
+2023-11-21 13:03:18.162148,Atlético Nacional,2.15,3.35,3.30,América de Cali,26 Nov,15:30
+2023-11-21 17:11:35.519440,Tolima,1.727,3.65,4.75,Deportivo Cali,25 Nov,14:00
+2023-11-21 17:11:35.579548,CD Junior,1.95,3.35,4.00,Rionegro Aguilas,25 Nov,16:30
+2023-11-21 17:11:35.633152,Millonarios,2.00,3.40,3.75,Independiente Medellin,26 Nov,13:00
+2023-11-21 17:11:35.688733,Atlético Nacional,2.15,3.35,3.30,América de Cali,26 Nov,15:30
+2023-11-21 18:34:27.993270,Tolima,1.727,3.65,4.75,Deportivo Cali,25 Nov,14:00
+2023-11-21 18:34:28.061430,CD Junior,1.95,3.35,4.00,Rionegro Aguilas,25 Nov,16:30
+2023-11-21 18:34:28.120833,Millonarios,2.00,3.40,3.75,Independiente Medellin,26 Nov,13:00
+2023-11-21 18:34:28.175452,Atlético Nacional,2.15,3.35,3.30,América de Cali,26 Nov,15:30
+2023-11-22 09:02:31.105938,Tolima,1.727,3.65,4.75,Deportivo Cali,25 Nov,14:00
+2023-11-22 09:02:31.166658,CD Junior,1.95,3.35,3.95,Rionegro Aguilas,25 Nov,16:30
+2023-11-22 09:02:31.221346,Millonarios,2.00,3.40,3.75,Independiente Medellin,26 Nov,13:00
+2023-11-22 09:02:31.275986,Atlético Nacional,2.15,3.35,3.30,América de Cali,26 Nov,15:30
+2023-11-22 19:17:21.110603,Tolima,1.727,3.70,4.75,Deportivo Cali,25 Nov,14:00
+2023-11-22 19:17:21.170117,CD Junior,1.95,3.35,3.95,Rionegro Aguilas,25 Nov,16:30
+2023-11-22 19:17:21.227321,Millonarios,2.00,3.40,3.75,Independiente Medellin,26 Nov,13:00
+2023-11-22 19:17:21.293740,Atlético Nacional,2.15,3.35,3.30,América de Cali,26 Nov,15:30
+2023-11-23 12:25:53.067239,Tolima,1.769,3.75,4.75,Deportivo Cali,25 Nov,14:00
+2023-11-23 12:25:53.128907,CD Junior,2.00,3.40,4.00,Rionegro Aguilas,25 Nov,16:30
+2023-11-23 12:25:53.199586,Millonarios,2.05,3.45,3.85,Independiente Medellin,26 Nov,13:00
+2023-11-23 12:25:53.255637,Atlético Nacional,2.20,3.45,3.40,América de Cali,26 Nov,15:30
+2023-11-25 14:32:07.934671,CD Junior,1.727,3.85,5.00,Rionegro Aguilas,25 Nov,16:30
+2023-11-25 14:32:07.998925,Millonarios,2.10,3.45,3.65,Independiente Medellin,26 Nov,13:00
+2023-11-25 14:32:08.064284,Atlético Nacional,2.30,3.40,3.20,América de Cali,26 Nov,15:30
+2023-11-25 14:32:08.121634,Deportivo Cali,2.20,3.35,3.25,Tolima,29 Nov,17:30
+2023-11-26 12:48:15.331413,Millonarios,2.00,3.35,4.20,Independiente Medellin,26 Nov,13:00
+2023-11-26 12:48:15.393696,Atlético Nacional,2.35,3.35,3.20,América de Cali,26 Nov,15:30
+2023-11-26 12:48:15.447866,Rionegro Aguilas,2.25,3.20,3.30,CD Junior,29 Nov,15:15
+2023-11-26 12:48:15.502557,Deportivo Cali,2.25,3.20,3.30,Tolima,29 Nov,17:30
+2023-11-26 17:20:32.155674,Rionegro Aguilas,2.25,3.20,3.30,CD Junior,29 Nov,15:15
+2023-11-26 17:20:32.346746,Deportivo Cali,2.25,3.20,3.30,Tolima,29 Nov,17:30
+2023-11-26 17:20:32.436128,Independiente Medellin,2.00,3.40,3.70,Millonarios,30 Nov,17:30
+2023-11-27 08:03:24.162622,Rionegro Aguilas,2.40,3.30,3.10,CD Junior,29 Nov,15:15
+2023-11-27 08:03:24.221080,Deportivo Cali,2.60,3.25,2.875,Tolima,29 Nov,17:30
+2023-11-27 08:03:24.279615,América de Cali,1.70,3.85,5.25,Atlético Nacional,30 Nov,15:15
+2023-11-27 08:03:24.343740,Independiente Medellin,1.95,3.50,4.20,Millonarios,30 Nov,17:30
+2023-11-27 12:47:11.941806,Rionegro Aguilas,2.40,3.30,3.10,CD Junior,29 Nov,15:15
+2023-11-27 12:47:12.008924,Deportivo Cali,2.60,3.25,2.875,Tolima,29 Nov,17:30
+2023-11-27 12:47:12.078310,América de Cali,1.70,3.85,5.25,Atlético Nacional,30 Nov,15:15
+2023-11-27 12:47:12.136101,Independiente Medellin,1.95,3.50,4.20,Millonarios,30 Nov,17:30
+2023-11-30 23:58:15.234825,Tolima,1.95,3.40,4.333,Rionegro Aguilas,02 Dic,15:00
+2023-11-30 23:58:15.422055,Deportivo Cali,2.90,3.20,2.65,CD Junior,02 Dic,17:15
+2023-11-30 23:58:15.488419,Atlético Nacional,2.25,3.50,3.25,Independiente Medellin,03 Dic,12:30
+2023-11-30 23:58:15.559360,América de Cali,2.30,3.40,3.20,Millonarios,03 Dic,16:00
+2023-12-01 11:33:54.808036,Tolima,1.95,3.40,4.333,Rionegro Aguilas,02 Dic,15:00
+2023-12-01 11:33:54.901981,Deportivo Cali,3.10,3.20,2.45,CD Junior,02 Dic,17:15
+2023-12-01 11:33:55.135661,Atlético Nacional,2.50,3.25,3.00,Independiente Medellin,03 Dic,12:30
+2023-12-01 11:33:55.193562,América de Cali,2.30,3.40,3.20,Millonarios,03 Dic,16:00
+2023-12-01 11:40:08.096824,Tolima,1.95,3.40,4.333,Rionegro Aguilas,02 Dic,15:00
+2023-12-01 11:40:08.154821,Deportivo Cali,3.10,3.20,2.45,CD Junior,02 Dic,17:15
+2023-12-01 11:40:08.219452,Atlético Nacional,2.50,3.25,3.00,Independiente Medellin,03 Dic,12:30
+2023-12-01 11:40:08.297658,América de Cali,2.30,3.40,3.20,Millonarios,03 Dic,16:00
+2023-12-02 07:29:11.179578,Tolima,1.90,3.50,4.50,Rionegro Aguilas,02 Dic,15:00
+2023-12-02 07:29:11.398580,Deportivo Cali,3.70,3.25,2.15,CD Junior,02 Dic,17:15
+2023-12-02 07:29:11.508075,Atlético Nacional,2.50,3.30,3.00,Independiente Medellin,03 Dic,12:30
+2023-12-02 07:29:11.579849,América de Cali,2.40,3.35,3.00,Millonarios,03 Dic,16:00
+2023-12-02 15:35:47.024770,Deportivo Cali,3.70,3.25,2.15,CD Junior,02 Dic,17:15
+2023-12-02 15:35:47.092408,Atlético Nacional,2.50,3.25,3.00,Independiente Medellin,03 Dic,12:30
+2023-12-02 15:35:47.161467,América de Cali,2.40,3.35,3.00,Millonarios,03 Dic,16:00
+2023-12-03 23:14:28.821773,Rionegro Aguilas,1.65,3.80,5.25,Deportivo Cali,06 Dic,15:00
+2023-12-03 23:14:28.901968,CD Junior,1.95,3.35,4.00,Tolima,06 Dic,15:00
+2023-12-03 23:14:28.978055,Independiente Medellin,2.20,3.30,3.35,América de Cali,06 Dic,17:15
+2023-12-03 23:14:29.070655,Millonarios,1.90,3.35,4.333,Atlético Nacional,06 Dic,17:15
+2023-12-04 14:51:42.391395,Rionegro Aguilas,1.666,4.00,5.25,Deportivo Cali,06 Dic,15:00
+2023-12-04 14:51:42.607257,CD Junior,2.10,3.35,3.75,Tolima,06 Dic,15:00
+2023-12-04 14:51:42.677791,Independiente Medellin,2.20,3.40,3.45,América de Cali,06 Dic,17:15
+2023-12-04 14:51:42.746427,Millonarios,1.90,3.40,4.50,Atlético Nacional,07 Dic,15:00
+2023-12-04 16:18:47.914852,Rionegro Aguilas,1.666,4.00,5.25,Deportivo Cali,06 Dic,15:00
+2023-12-04 16:18:48.104557,CD Junior,2.10,3.35,3.75,Tolima,06 Dic,15:00
+2023-12-04 16:18:48.168724,Independiente Medellin,2.20,3.40,3.45,América de Cali,06 Dic,17:15
+2023-12-04 16:18:48.239283,Millonarios,1.90,3.45,4.50,Atlético Nacional,07 Dic,15:00
+2023-12-05 18:37:28.507391,Rionegro Aguilas,1.65,4.00,5.25,Deportivo Cali,06 Dic,15:00
+2023-12-05 18:37:28.851844,Millonarios,1.909,3.45,4.50,Atlético Nacional,06 Dic,15:00
+2023-12-05 18:37:28.933093,CD Junior,2.15,3.45,3.60,Tolima,06 Dic,17:15
+2023-12-05 18:37:29.013570,Independiente Medellin,2.20,3.45,3.35,América de Cali,06 Dic,17:15
+2023-12-06 08:17:38.169695,Rionegro Aguilas,1.571,4.20,6.00,Deportivo Cali,06 Dic,15:00
+2023-12-06 08:17:38.236710,Millonarios,1.95,3.50,4.20,Atlético Nacional,06 Dic,15:00
+2023-12-06 08:17:38.318517,CD Junior,1.95,3.80,3.70,Tolima,06 Dic,17:15
+2023-12-06 08:17:38.404013,Independiente Medellin,2.30,3.35,3.25,América de Cali,06 Dic,17:15
+2023-12-06 11:10:50.151038,Rionegro Aguilas,1.571,4.20,6.00,Deportivo Cali,06 Dic,15:00
+2023-12-06 11:10:50.215313,Millonarios,1.95,3.50,4.20,Atlético Nacional,06 Dic,15:00
+2023-12-06 11:10:50.271961,CD Junior,1.95,3.80,3.70,Tolima,06 Dic,17:15
+2023-12-06 11:10:50.334606,Independiente Medellin,2.30,3.35,3.25,América de Cali,06 Dic,17:15
+2023-12-07 10:26:00.079459,CD Junior,2.00,3.50,3.90,Independiente Medellin,10 Dic,13:00
+2023-12-07 22:33:43.418107,CD Junior,1.95,3.35,4.333,Independiente Medellin,10 Dic,13:00
+2023-12-08 10:17:59.821868,CD Junior,1.95,3.35,4.333,Independiente Medellin,10 Dic,13:00
+2023-12-08 16:23:59.319825,CD Junior,1.95,3.35,4.333,Independiente Medellin,10 Dic,13:00
+2023-12-09 14:52:18.775030,CD Junior,2.05,3.35,4.00,Independiente Medellin,10 Dic,13:00
+2023-12-09 20:16:28.623322,CD Junior,2.05,3.35,4.00,Independiente Medellin,10 Dic,13:00
+2023-12-11 13:52:21.096392,Independiente Medellin,1.833,3.50,4.75,CD Junior,13 Dic,17:00
+2023-12-12 00:01:21.819489,Independiente Medellin,1.80,3.70,4.75,CD Junior,13 Dic,17:00
+2023-12-12 00:01:26.944623,Independiente Medellin,1.80,3.70,4.75,CD Junior,13 Dic,17:00
+2023-12-13 08:57:17.334677,Independiente Medellin,1.70,3.90,5.00,CD Junior,13 Dic,17:00
+2024-02-29 21:39:01.548291,Envigado FC,2.05,3.40,3.90,Jaguares De Córdoba,01 Mar,13:00
+2024-02-29 21:39:01.605485,Boyaca Chico FC,2.50,3.20,3.10,Tolima,01 Mar,15:10
+2024-02-29 21:39:01.661511,Deportivo Cali,2.05,3.45,3.85,Once Caldas,01 Mar,17:20
+2024-02-29 21:39:01.716000,Millonarios,1.85,3.35,5.00,La Equidad,02 Mar,13:00
+2024-02-29 21:39:01.778879,Deportivo Pereira,2.45,3.30,3.10,América de Cali,02 Mar,15:10
+2024-02-29 21:39:01.835112,CD Junior,2.00,3.45,4.00,Atlético Nacional,02 Mar,17:20
+2024-02-29 21:39:01.889382,Atletico Bucaramanga,1.90,3.45,4.75,Patriotas Boyaca,03 Mar,13:00
+2024-02-29 21:39:01.943859,Independiente Medellin,2.25,3.35,3.35,Rionegro Aguilas,03 Mar,15:10
+2024-02-29 21:39:02.014302,Alianza FC,3.75,3.50,2.05,Independiente Santa Fe,03 Mar,17:20
+2024-02-29 21:39:02.070066,Deportivo Pasto,2.30,3.20,3.40,Fortaleza FC,04 Mar,17:10
