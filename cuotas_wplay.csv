@@ -262,3 +262,60 @@ datetime,local,cuota_local,cuota_empate,cuota_visitante,visitante,fecha,hora
 2024-02-29 21:39:01.943859,Independiente Medellin,2.25,3.35,3.35,Rionegro Aguilas,03 Mar,15:10
 2024-02-29 21:39:02.014302,Alianza FC,3.75,3.50,2.05,Independiente Santa Fe,03 Mar,17:20
 2024-02-29 21:39:02.070066,Deportivo Pasto,2.30,3.20,3.40,Fortaleza FC,04 Mar,17:10
+2024-03-15 19:36:58.141429,CD Junior,1.55,4.00,6.50,Jaguares De Córdoba,15 Mar,20:10
+2024-03-15 19:36:58.241717,Independiente Santa Fe,2.05,3.35,3.95,Tolima,16 Mar,14:00
+2024-03-15 19:36:58.318757,Atletico Bucaramanga,2.625,2.95,3.10,La Equidad,16 Mar,16:10
+2024-03-15 19:36:58.392593,Boyaca Chico FC,2.65,3.20,2.90,Atlético Nacional,16 Mar,18:20
+2024-03-15 19:36:58.459379,Independiente Medellin,1.909,3.55,4.333,Once Caldas,16 Mar,20:30
+2024-03-15 19:36:58.526454,Envigado FC,4.00,3.40,2.00,Millonarios,17 Mar,14:00
+2024-03-15 19:36:58.581852,Deportivo Cali,1.70,3.70,5.75,Patriotas Boyaca,17 Mar,16:10
+2024-03-15 19:36:58.648402,Fortaleza FC,2.90,3.35,2.50,América de Cali,17 Mar,18:20
+2024-03-15 19:36:58.704016,Deportivo Pereira,2.15,3.30,3.75,Rionegro Aguilas,17 Mar,20:30
+2024-03-20 11:10:34.348328,Patriotas Boyaca,3.70,3.25,2.10,CD Junior,22 Mar,16:10
+2024-03-20 11:10:34.430105,La Equidad,1.95,3.45,3.95,Independiente Medellin,22 Mar,18:20
+2024-03-20 11:10:34.515485,Millonarios,1.55,4.00,6.00,Deportivo Cali,23 Mar,12:00
+2024-03-20 11:10:34.798854,Tolima,1.90,3.45,4.20,Deportivo Pereira,23 Mar,14:10
+2024-03-20 11:10:34.879588,Jaguares De Córdoba,2.45,3.00,3.10,Fortaleza FC,23 Mar,16:20
+2024-03-20 11:10:34.937875,América de Cali,1.50,4.20,6.25,Boyaca Chico FC,23 Mar,18:30
+2024-03-20 11:10:34.993422,Atletico Bucaramanga,1.70,3.70,5.00,Envigado FC,24 Mar,14:00
+2024-03-20 11:10:35.047607,Atlético Nacional,1.615,3.80,5.75,Deportivo Pasto,24 Mar,16:10
+2024-03-20 11:10:35.105782,Rionegro Aguilas,2.375,3.20,3.10,Independiente Santa Fe,24 Mar,18:20
+2024-03-20 11:10:35.162550,Once Caldas,1.833,3.65,4.20,Alianza FC,25 Mar,14:00
+2024-03-20 12:01:38.630657,Patriotas Boyaca,3.70,3.25,2.10,CD Junior,22 Mar,16:10
+2024-03-20 12:01:38.704842,La Equidad,1.95,3.45,3.95,Independiente Medellin,22 Mar,18:20
+2024-03-20 12:01:38.834933,Millonarios,1.55,4.00,6.00,Deportivo Cali,23 Mar,12:00
+2024-03-20 12:01:39.141969,Tolima,1.90,3.45,4.20,Deportivo Pereira,23 Mar,14:10
+2024-03-20 12:01:39.197879,Jaguares De Córdoba,2.45,3.00,3.10,Fortaleza FC,23 Mar,16:20
+2024-03-20 12:01:39.251699,América de Cali,1.50,4.20,6.25,Boyaca Chico FC,23 Mar,18:30
+2024-03-20 12:01:39.317208,Atletico Bucaramanga,1.70,3.70,5.00,Envigado FC,24 Mar,14:00
+2024-03-20 12:01:39.372762,Atlético Nacional,1.615,3.80,5.75,Deportivo Pasto,24 Mar,16:10
+2024-03-20 12:01:39.429209,Rionegro Aguilas,2.375,3.20,3.10,Independiente Santa Fe,24 Mar,18:20
+2024-03-20 12:01:39.482874,Once Caldas,1.833,3.65,4.20,Alianza FC,25 Mar,14:00
+2024-03-25 11:27:52.705223,Once Caldas,1.70,3.75,5.25,Alianza FC,25 Mar,14:00
+2024-03-25 11:27:52.779812,Atletico Bucaramanga,2.10,3.25,3.70,Rionegro Aguilas,27 Mar,14:00
+2024-03-25 11:27:52.859605,Atlético Nacional,1.55,3.90,6.25,Jaguares De Córdoba,27 Mar,16:10
+2024-03-25 11:27:52.923113,Millonarios,2.05,3.20,3.80,Independiente Santa Fe,27 Mar,18:20
+2024-03-25 11:27:53.039886,CD Junior,1.85,3.45,4.333,La Equidad,29 Mar,17:30
+2024-03-25 11:27:53.114793,Envigado FC,3.20,3.25,2.25,Atlético Nacional,30 Mar,12:00
+2024-03-25 11:27:53.173455,Deportivo Pasto,2.40,3.20,3.00,Once Caldas,30 Mar,14:10
+2024-03-25 11:27:53.236130,Boyaca Chico FC,2.00,3.35,3.80,Jaguares De Córdoba,30 Mar,16:20
+2024-03-25 11:27:53.297163,Independiente Santa Fe,1.615,3.95,5.50,Patriotas Boyaca,31 Mar,12:00
+2024-03-25 11:27:53.359982,Deportivo Pereira,1.85,3.45,4.50,Atletico Bucaramanga,31 Mar,14:10
+2024-03-25 11:27:53.417880,Independiente Medellin,2.50,3.20,2.90,América de Cali,31 Mar,16:20
+2024-03-25 11:27:53.473930,Deportivo Cali,2.15,3.25,3.45,Rionegro Aguilas,31 Mar,18:30
+2024-03-28 11:16:40.404700,Alianza FC,3.10,3.20,2.50,Tolima,29 Mar,15:00
+2024-03-28 11:16:40.591831,CD Junior,1.85,3.55,4.50,La Equidad,29 Mar,17:30
+2024-03-28 11:16:40.827077,Envigado FC,3.45,3.30,2.25,Atlético Nacional,30 Mar,12:00
+2024-03-28 11:16:40.897627,Deportivo Pasto,2.50,2.95,3.30,Once Caldas,30 Mar,14:10
+2024-03-28 11:16:40.959585,Boyaca Chico FC,1.833,3.45,4.50,Jaguares De Córdoba,30 Mar,16:20
+2024-03-28 11:16:41.021760,Fortaleza FC,2.45,3.20,2.95,Millonarios,30 Mar,18:30
+2024-03-28 11:16:41.083873,Independiente Santa Fe,1.571,3.90,6.00,Patriotas Boyaca,31 Mar,12:00
+2024-03-28 11:16:41.149988,Deportivo Pereira,1.85,3.40,4.333,Atletico Bucaramanga,31 Mar,14:10
+2024-03-28 11:16:41.216308,Independiente Medellin,2.55,3.25,2.75,América de Cali,31 Mar,16:20
+2024-03-28 11:16:41.290109,Deportivo Cali,2.10,3.30,3.55,Rionegro Aguilas,31 Mar,18:30
+2024-03-31 00:57:06.794399,Independiente Santa Fe,1.60,3.80,5.75,Patriotas Boyaca,31 Mar,12:00
+2024-03-31 00:57:06.906248,Deportivo Pereira,1.75,3.45,5.00,Atletico Bucaramanga,31 Mar,14:10
+2024-03-31 00:57:07.229306,Independiente Medellin,2.40,3.25,2.95,América de Cali,31 Mar,16:20
+2024-03-31 00:57:07.302547,Deportivo Cali,2.20,3.20,3.45,Rionegro Aguilas,31 Mar,18:30
+2024-03-31 00:57:07.371566,Atlético Nacional,1.769,3.45,5.00,Fortaleza FC,05 Abr,16:10
+2024-03-31 00:57:07.439730,Once Caldas,2.35,3.00,3.25,Tolima,05 Abr,18:20

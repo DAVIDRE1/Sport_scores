@@ -30,4 +30,4 @@ for i in range(1,quantity+1):
     df.loc[len(df)] = l
 
 driver.quit()
-df.to_csv("../Users/davidramirez/Documents/MSDS/Personal_projects/Soccer/cuotas_wplay.csv", mode='a', index=False, header=False)
+df.to_csv("/Users/davidramirez/Documents/MSDS/Personal_projects/Soccer/cuotas_wplay.csv", mode='a', index=False, header=False)

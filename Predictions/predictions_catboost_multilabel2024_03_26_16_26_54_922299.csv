@@ -1,0 +1,11 @@
+year,torneo,fase,jornada,local,visitante,pos_local,pos_visitante,cuota_local,cuota_empate,cuota_visitante,soft_pred_local,soft_pred_empate,soft_pred_visitante,hard_pred,expected_return_local,expected_return_empate,expected_return_visitante,best_bet,expected_return
+2024,liga-dimayor-apertura,todos contra todos,11,Rionegro Aguilas,CD Junior,9,6,2.4,3.3,3.1,0.38796834808302244,0.35329017878681557,0.25874147313016205,Local,0.9311240353992538,1.1658575899964914,0.8020985667035023,empate,1.1658575899964914
+2024,liga-dimayor-apertura,todos contra todos,11,La Equidad,Deportivo Cali,3,8,,,,0.41616665472742914,0.33994321240489866,0.2438901328676721,Local,,,,visitante,
+2024,liga-dimayor-apertura,todos contra todos,11,Deportivo Pasto,Boyaca Chico FC,19,18,,,,0.5714040706556736,0.2781854862387286,0.1504104431055978,Local,,,,visitante,
+2024,liga-dimayor-apertura,todos contra todos,11,Independiente Santa Fe,Fortaleza FC,4,13,,,,0.6634950847352449,0.20168502641765892,0.13481988884709611,Local,,,,visitante,
+2024,liga-dimayor-apertura,todos contra todos,11,América de Cali,Alianza FC,17,15,,,,0.4897251117315677,0.3162366287551613,0.19403825951327103,Local,,,,visitante,
+2024,liga-dimayor-apertura,todos contra todos,11,Tolima,Independiente Medellin,1,10,,,,0.5469708645387472,0.28762188080032675,0.16540725466092604,Local,,,,visitante,
+2024,liga-dimayor-apertura,todos contra todos,11,Once Caldas,Envigado FC,7,12,,,,0.5672759915378921,0.27625821851965615,0.1564657899424518,Local,,,,visitante,
+2024,liga-dimayor-apertura,todos contra todos,11,Atlético Nacional,Atletico Bucaramanga,16,5,,,,0.4430102733653031,0.35612576383183764,0.20086396280285929,Local,,,,visitante,
+2024,liga-dimayor-apertura,todos contra todos,11,Jaguares De Córdoba,Millonarios,11,14,,,,0.4402056397904935,0.2882822904444093,0.2715120697650973,Local,,,,visitante,
+2024,liga-dimayor-apertura,todos contra todos,11,Patriotas Boyaca,Deportivo Pereira,20,2,,,,0.3387973310496648,0.35393268881027184,0.3072699801400633,Empate,,,,visitante,

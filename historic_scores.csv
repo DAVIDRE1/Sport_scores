@@ -5772,3 +5772,43 @@ year,torneo,fase,jornada,local,goles_local,goles_visitante,visitante,fecha,dia,a
 2024,liga-dimayor-finalizacion,todos contra todos,9,Millonarios,0,2,Once Caldas,2/28/24,miércoles,Wilmar Roldán,10,13,FALSE,FALSE,TRUE
 2024,liga-dimayor-finalizacion,todos contra todos,9,Fortaleza CEIF,1,2,Alianza FC,2/28/24,miércoles,Bismark Santiago,9,16,FALSE,FALSE,TRUE
 2024,liga-dimayor-finalizacion,todos contra todos,9,Indep. Medellín,1,0,Deportivo Pasto,3/1/24,viernes,Nicolás Gallo,18,20,TRUE,FALSE,FALSE
+2024,liga-dimayor-finalizacion,todos contra todos,10,Envigado,2,2,Jaguares FC,3/1/24,viernes,Jonathan Ortíz,11,9,FALSE,TRUE,FALSE
+2024,liga-dimayor-finalizacion,todos contra todos,10,Boyacá Chicó,1,1,Deportes Tolima,3/2/24,sábado,José Ortiz,18,1,FALSE,TRUE,FALSE
+2024,liga-dimayor-finalizacion,todos contra todos,10,Deportivo Cali,0,1,Once Caldas,3/2/24,sábado,Carlos Ortega,5,12,FALSE,FALSE,TRUE
+2024,liga-dimayor-finalizacion,todos contra todos,10,Millonarios,1,2,CD La Equidad,3/2/24,sábado,Jhon Hinestroza,13,2,FALSE,FALSE,TRUE
+2024,liga-dimayor-finalizacion,todos contra todos,10,Pereira,2,0,CD América,3/3/24,domingo,Diego Ruiz,3,16,TRUE,FALSE,FALSE
+2024,liga-dimayor-finalizacion,todos contra todos,10,Junior FC,0,0,Atl. Nacional,3/3/24,domingo,Jorge Duarte,6,17,FALSE,TRUE,FALSE
+2024,liga-dimayor-finalizacion,todos contra todos,10,A. Bucaramanga,3,0,Patriotas,3/3/24,domingo,Wilmar Roldán,8,19,TRUE,FALSE,FALSE
+2024,liga-dimayor-finalizacion,todos contra todos,10,Indep. Medellín,1,0,Águilas Doradas,3/4/24,lunes,Nolberto Ararat,15,7,TRUE,FALSE,FALSE
+2024,liga-dimayor-finalizacion,todos contra todos,10,Alianza FC,0,1,Indep. Santa Fe,3/4/24,lunes,Jhon Ospina,14,4,FALSE,FALSE,TRUE
+2024,liga-dimayor-finalizacion,todos contra todos,10,Deportivo Pasto,1,0,Fortaleza CEIF,3/5/24,martes,Luis Matorel,20,10,TRUE,FALSE,FALSE
+2024,liga-dimayor-finalizacion,todos contra todos,11,Águilas Doradas,0,2,Junior FC,3/9/24,sábado,Steven Camargo,9,6,FALSE,FALSE,TRUE
+2024,liga-dimayor-finalizacion,todos contra todos,11,CD La Equidad,2,0,Deportivo Cali,3/9/24,sábado,Diego Ruiz,3,8,TRUE,FALSE,FALSE
+2024,liga-dimayor-finalizacion,todos contra todos,11,Deportivo Pasto,2,1,Boyacá Chicó,3/9/24,sábado,Carlos Ortega,19,18,TRUE,FALSE,FALSE
+2024,liga-dimayor-finalizacion,todos contra todos,11,Indep. Santa Fe,2,0,Fortaleza CEIF,3/9/24,sábado,Héctor Rivera,4,13,TRUE,FALSE,FALSE
+2024,liga-dimayor-finalizacion,todos contra todos,11,CD América,2,0,Alianza FC,3/10/24,domingo,David Espinosa,17,15,TRUE,FALSE,FALSE
+2024,liga-dimayor-finalizacion,todos contra todos,11,Deportes Tolima,2,2,Indep. Medellín,3/10/24,domingo,Bismark Santiago,1,10,FALSE,TRUE,FALSE
+2024,liga-dimayor-finalizacion,todos contra todos,11,Once Caldas,2,1,Envigado,3/10/24,domingo,Edilson Ariza,7,12,TRUE,FALSE,FALSE
+2024,liga-dimayor-finalizacion,todos contra todos,11,Atl. Nacional,0,0,A. Bucaramanga,3/10/24,domingo,Nicolás Gallo,16,5,FALSE,TRUE,FALSE
+2024,liga-dimayor-finalizacion,todos contra todos,11,Jaguares FC,2,1,Millonarios,3/11/24,lunes,Luis Delgado,11,14,TRUE,FALSE,FALSE
+2024,liga-dimayor-finalizacion,todos contra todos,11,Patriotas,0,3,Pereira,3/11/24,lunes,Curso del encuentro,20,2,FALSE,FALSE,TRUE
+2024,liga-dimayor-finalizacion,todos contra todos,12,Alianza FC,1,1,Deportivo Pasto,3/16/24,sábado,Andrés Rojas,16,18,FALSE,TRUE,FALSE
+2024,liga-dimayor-finalizacion,todos contra todos,12,Junior FC,3,1,Jaguares FC,3/16/24,sábado,Diego Ulloa,5,8,TRUE,FALSE,FALSE
+2024,liga-dimayor-finalizacion,todos contra todos,12,Indep. Santa Fe,1,1,Deportes Tolima,3/16/24,sábado,Wilmar Roldán,4,3,FALSE,TRUE,FALSE
+2024,liga-dimayor-finalizacion,todos contra todos,12,A. Bucaramanga,4,0,CD La Equidad,3/16/24,sábado,Wander Mosquera,7,2,TRUE,FALSE,FALSE
+2024,liga-dimayor-finalizacion,todos contra todos,12,Boyacá Chicó,2,1,Atl. Nacional,3/17/24,domingo,Jhon Ospina,19,17,TRUE,FALSE,FALSE
+2024,liga-dimayor-finalizacion,todos contra todos,12,Indep. Medellín,1,2,Once Caldas,3/17/24,domingo,Luis Matorel,9,6,FALSE,FALSE,TRUE
+2024,liga-dimayor-finalizacion,todos contra todos,12,Envigado,1,1,Millonarios,3/17/24,domingo,Liz Suarez,12,15,FALSE,TRUE,FALSE
+2024,liga-dimayor-finalizacion,todos contra todos,12,Deportivo Cali,0,1,Patriotas,3/17/24,domingo,Bismark Santiago,10,20,FALSE,FALSE,TRUE
+2024,liga-dimayor-finalizacion,todos contra todos,12,Fortaleza CEIF,0,0,CD América,3/18/24,lunes,Jorge Duarte,14,13,FALSE,TRUE,FALSE
+2024,liga-dimayor-finalizacion,todos contra todos,12,Pereira,2,1,Águilas Doradas,3/18/24,lunes,José Ortiz,1,11,TRUE,FALSE,FALSE
+2024,liga-dimayor-finalizacion,todos contra todos,13,Patriotas,1,0,Junior FC,3/23/24,sábado,Wilmar Roldán,20,5,TRUE,FALSE,FALSE
+2024,liga-dimayor-finalizacion,todos contra todos,13,CD La Equidad,1,2,Indep. Medellín,3/23/24,sábado,Carlos Ortega,4,9,FALSE,FALSE,TRUE
+2024,liga-dimayor-finalizacion,todos contra todos,13,Millonarios,1,1,Deportivo Cali,3/23/24,sábado,Nicolás Gallo,15,10,FALSE,TRUE,FALSE
+2024,liga-dimayor-finalizacion,todos contra todos,13,Deportes Tolima,2,1,Pereira,3/23/24,sábado,Carlos Betancourt,2,1,TRUE,FALSE,FALSE
+2024,liga-dimayor-finalizacion,todos contra todos,13,Jaguares FC,0,1,Fortaleza CEIF,3/24/24,domingo,Jhon Ospina,8,14,FALSE,FALSE,TRUE
+2024,liga-dimayor-finalizacion,todos contra todos,13,CD América,3,2,Boyacá Chicó,3/24/24,domingo,Andrés Rojas,13,17,TRUE,FALSE,FALSE
+2024,liga-dimayor-finalizacion,todos contra todos,13,A. Bucaramanga,3,1,Envigado,3/24/24,domingo,Nolberto Ararat,7,11,TRUE,FALSE,FALSE
+2024,liga-dimayor-finalizacion,todos contra todos,13,Atl. Nacional,1,0,Deportivo Pasto,3/25/24,lunes,Steven Camargo,19,18,TRUE,FALSE,FALSE
+2024,liga-dimayor-finalizacion,todos contra todos,13,Águilas Doradas,1,1,Indep. Santa Fe,3/25/24,lunes,Diego Ruiz,12,3,FALSE,TRUE,FALSE
+2024,liga-dimayor-finalizacion,todos contra todos,13,Once Caldas,1,0,Alianza FC,3/25/24,lunes,Héctor Rivera,6,16,TRUE,FALSE,FALSE
